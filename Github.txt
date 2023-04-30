@@ -1,1 +1,2 @@
 Gitub is amazing
+Error has been fixed
